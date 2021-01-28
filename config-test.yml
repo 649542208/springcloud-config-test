@@ -1,2 +1,2 @@
 config:
- info: config-test.yml version=1
+ info: master config-test.yml version=1
